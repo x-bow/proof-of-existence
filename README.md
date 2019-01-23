@@ -19,7 +19,7 @@ This DApp can be used to prove the original creator (owner) of any documents lik
   $ npm install
   ```
 *  Run local instance of the application.
-  ```
-  $ npm start
-  ```
+    ```
+    $ npm start
+    ```
 
