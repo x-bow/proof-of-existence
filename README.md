@@ -8,4 +8,7 @@ This DApp can be used to prove the original creator (owner) of any documents lik
 
 # How to set up the DApp?
 
+Deployed Contracts: Rinkeby Testnet
+The author of this repo has deployed a test version of the protocol on Rinkeby Testnet. Please see deployed_address.md for more details.
+
 
