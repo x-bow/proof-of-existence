@@ -14,7 +14,9 @@ This DApp can be used to prove the original creator (owner) of any documents lik
 ### Steps to run locally
 * Make sure node and npm is installed.
 * Install all dependencies.
-`$ npm install`
+`
+$ npm install
+`
 ``$ npm install``
 ```$ npm install```
 
