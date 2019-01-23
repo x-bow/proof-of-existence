@@ -13,7 +13,7 @@ This DApp can be used to prove the original creator (owner) of any documents lik
 
 ### How to run DApp locally?
 * Connect Metamask to Ropsten Test Network.
-* Install [UPort](https://www.uport.me/) app on your phone and set up account.
+* Install [uPort](https://www.uport.me/) app on your phone and set up account.
 * Make sure `node` and `npm` is installed.
 * Clone the repo and go inside the directory.
   ```
@@ -29,5 +29,14 @@ This DApp can be used to prove the original creator (owner) of any documents lik
     $ npm start
     ```
 * The server will launch the app at http://localhost:3000
-* Click on "Login with UPort".
-* 
+* Click on "Login with uPort".
+* Popup box will appear. Click on "Continue with uPort". You will see QR code.
+* Open uPort app on your phone and scan QR code.
+* On your phone app, click on "Login with this account" and again click on "Share your information".
+* You should now be logged into the website.
+* Click "Choose File", then select an image.
+* Type description and click "Submit".
+* Wait for the transaction to be confirmed in Metamask.
+* To refresh, click on "Proof of Existence" and click back on "Dashboard".
+* You should see your image with timestamp.
+* You can also search for all your previously uploaded images.
