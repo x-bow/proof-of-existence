@@ -17,14 +17,14 @@ This DApp can be used to prove the original creator (owner) of any documents lik
 * Make sure `node` and `npm` is installed.
 * Clone the repo and go inside the directory.
   ```
-$ git clone
-$ cd Consensys-Academy-Final-Project/
-$ npm install
-* To install all dependencies, run:
+$ git clone https://github.com/x-bow/proof-of-existence.git
+$ cd proof-of-existence/
+  ```
+* Install all dependencies.
   ```
   $ npm install
   ```
-*  To start local instance of the application, run:
+*  Start local instance of the application.
     ```
     $ npm start
     ```
