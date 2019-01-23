@@ -6,7 +6,7 @@ This is proof of existence DApp where user can upload an image to IPFS and verif
 ### Why?
 This DApp can be used to prove the original creator (owner) of any documents like images, arts, agreements etc.
 
-### How to set up the DApp?
-- lskjadf
+### How to run up the DApp?
+- The DApp is deployed on IPFS <a href="https://gateway.ipfs.io/ipfs/QmRz6kLct5qYQtfLNFwwpJ6epcCCok1dbd8oTW5i64TzbA" rel="nofollow">here</a>
 
 
