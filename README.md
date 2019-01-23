@@ -17,8 +17,8 @@ This DApp can be used to prove the original creator (owner) of any documents lik
 * Make sure `node` and `npm` is installed.
 * Clone the repo and go inside the directory.
   ```
-$ git clone https://github.com/x-bow/proof-of-existence.git
-$ cd proof-of-existence/
+  $ git clone https://github.com/x-bow/proof-of-existence.git
+  $ cd proof-of-existence/
   ```
 * Install all dependencies.
   ```
