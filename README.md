@@ -1,6 +1,6 @@
 # Proof of Existence
 
-# What?
+## What?
 This is proof of existence DApp where user can upload an image to IPFS and verify the image and timestamp on Ethereum blockchain.
 
 # Why?
