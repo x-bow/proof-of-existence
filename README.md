@@ -12,10 +12,14 @@ This DApp can be used to prove the original creator (owner) of any documents lik
 - The DApp is deployed on IPFS [here.](https://gateway.ipfs.io/ipfs/QmRz6kLct5qYQtfLNFwwpJ6epcCCok1dbd8oTW5i64TzbA)
 
 ### Steps to run locally
-* Make sure node and npm is installed.
+* Connect Metamask to Ropsten Test Network.
+* Make sure `node` and `npm` is installed.
 * Install all dependencies.
   ```
   $ npm install
   ```
-
+*  Run local instance of the application.
+  ```
+  $ npm start
+  ```
 
