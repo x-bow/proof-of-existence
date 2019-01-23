@@ -13,7 +13,13 @@ This DApp can be used to prove the original creator (owner) of any documents lik
 
 ### How to run DApp locally?
 * Connect Metamask to Ropsten Test Network.
+* Install [UPort](https://www.uport.me/) app on your phone and set up account.
 * Make sure `node` and `npm` is installed.
+* Clone the repo and go inside the directory.
+  ```
+$ git clone
+$ cd Consensys-Academy-Final-Project/
+$ npm install
 * To install all dependencies, run:
   ```
   $ npm install
@@ -22,4 +28,6 @@ This DApp can be used to prove the original creator (owner) of any documents lik
     ```
     $ npm start
     ```
-
+* The server will launch the app at http://localhost:3000
+* Click on "Login with UPort".
+* 
