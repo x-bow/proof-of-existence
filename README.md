@@ -18,6 +18,8 @@ This DApp can be used to prove the original creator (owner) of any documents lik
 $ npm install
 `
 ``$ npm install``
-```$ npm install```
+```
+$ npm install
+```
 
 
