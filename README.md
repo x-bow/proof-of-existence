@@ -14,11 +14,11 @@ This DApp can be used to prove the original creator (owner) of any documents lik
 ### How to run DApp locally?
 * Connect Metamask to Ropsten Test Network.
 * Make sure `node` and `npm` is installed.
-* Install all dependencies.
+* To install all dependencies, run:
   ```
   $ npm install
   ```
-*  Run local instance of the application.
+*  To run local instance of the application, run:
     ```
     $ npm start
     ```
