@@ -1,6 +1,9 @@
 pragma solidity ^0.4.24;
 
-contract ImageUpload {
+import 'zeppelin-solidity/contracts/ownership/Ownable.sol';
+import 'zeppelin-solidity/contracts/lifecycle/Pausable.sol';
+
+contract ImageUpload is Ownable, Pausable {
 
 // state variables
 
@@ -34,7 +37,7 @@ contract ImageUpload {
 
 // functionalities
 
-    function createImage(string _ipfs, string _tag) public {
+    function createImage(string _ipfs, string _tag) public whenNotPaused() {
         uint256 _img_id; // image id
         require(_ownerof[_imagesCounter] == address(0),"ID already exist!"); // this to verify this id not used before
         _img_id = _imagesCounter;   // unique image id
@@ -58,5 +61,9 @@ contract ImageUpload {
        address _user;
        _user = msg.sender;
        return _ownerImgIDs[_user].ImagesId;
+    }
+    
+    function kill() public onlyOwner { // only owner can destruct the contract
+	     selfdestruct(owner);
     }
 }
