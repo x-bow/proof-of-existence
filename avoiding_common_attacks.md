@@ -3,4 +3,5 @@
 * Have followed Solidity coding standards.
 * Have avoided complex structures.
 * Have added require statements to each functions to validate data before proceding.
-* 
+* Have limited the accessibility by making things private so they can only be accessed from within the contract.
+* Unit testing to unsure code is functioning as expected.
