@@ -27,7 +27,7 @@ This DApp can be used to prove the original creator (owner) of any documents lik
   ```
 * Install all dependencies. Make sure all errors, if any, are resolved.
   ```
-  $ npm install
+  $ npm install --devDependencies
   ```
 *  Start local instance of the application.
     ```
