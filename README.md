@@ -12,7 +12,7 @@ This DApp can be used to prove the original creator (owner) of any documents lik
 - The DApp is deployed on IPFS [here.](https://gateway.ipfs.io/ipfs/QmRz6kLct5qYQtfLNFwwpJ6epcCCok1dbd8oTW5i64TzbA)
 
 ### How to run DApp locally?
-* Connect Metamask to Ropsten Test Network.
+* Connect Metamask to Ropsten Testnet.
 * Install [uPort](https://www.uport.me/) app on your phone and set up account.
 * Make sure `node` and `npm` is installed.
 * Clone the repo and go inside the directory.
