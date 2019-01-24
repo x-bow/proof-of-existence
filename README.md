@@ -6,6 +6,7 @@ This is proof of existence DApp where user can upload an image to IPFS and verif
 * Uses uPort to log into the application. This way users are in total control of their identity.
 * Uses IPFS so data is stored in distributed system and can be publicly verified.
 * Application, itself, is hosted in IPFS so it is truely decentraliced from end to end.
+* Uses ENS for contract address. 
 
 ### Why?
 This DApp can be used to prove the original creator (owner) of any documents like images, arts, agreements etc.
