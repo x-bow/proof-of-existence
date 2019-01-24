@@ -24,7 +24,7 @@ This DApp can be used to prove the original creator (owner) of any documents lik
   $ git clone https://github.com/x-bow/proof-of-existence.git
   $ cd proof-of-existence/
   ```
-* Install all dependencies.
+* Install all dependencies. Make sure all errors, if any, are resolved.
   ```
   $ npm install
   ```
@@ -32,6 +32,8 @@ This DApp can be used to prove the original creator (owner) of any documents lik
     ```
     $ npm start
     ```
+
+### How to use the DApp?
 * The server will launch the app at http://localhost:3000
 * Click on "Login with uPort".
 * Popup box will appear. Click on "Continue with uPort". You will see QR code.
