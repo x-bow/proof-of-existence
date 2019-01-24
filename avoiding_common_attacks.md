@@ -1,4 +1,4 @@
-#Steps taken to avoid common attacks
+# Steps taken to avoid common attacks
 
 * Have followed Solidity coding standards.
 * Have avoided complex structures.
