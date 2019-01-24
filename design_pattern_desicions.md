@@ -3,6 +3,7 @@
 * Have used uPort to log into the application. This way users are in total control of their identity.
 * Have used IPFS to store data so it stored in distributed system and can be publicly verified.
 * Application, itself, is hosted in IPFS so it is truely decentraliced from end to end.
+* Have used ENS for contract address.
 
 ## Cirtuit Breaker (Emergency Stop)
 * Have used standard Pausable and Ownable contracts from OpenZeppelin so only the owner of the contract can pause the contract.
