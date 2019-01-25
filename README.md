@@ -25,7 +25,7 @@ This DApp can be used to prove the original creator (owner) of any documents lik
   $ git clone https://github.com/x-bow/proof-of-existence.git
   $ cd proof-of-existence/
   ```
-* Install all dependencies. Make sure all errors, if any, are resolved.
+* Install all dependencies.
   ```
   $ npm install --devDependencies
   ```
